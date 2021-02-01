@@ -1,4 +1,3 @@
-# test
 //YBYB:Created from iat8.js, for Qualtrics
 define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) {
 
